@@ -1,4 +1,4 @@
-<img align="left" alt="Coding" height="500" width="1000" src="images/python_image.png">
+# <img align="left" alt="Coding" height="500" width="1000" src="images/python_image.png">
 
 <h1 align="center">Python Fundamentals</h1>
 <h2 align="center">This is an introductory course in structured programming concepts using Python and assumes no prior programming experience</h2>
